@@ -1,7 +1,7 @@
 # github-action-json-file-properties
 
 Read JSON file and set properties to `output` of github action `steps`.
-
+Another text
 ## Usage
 
 Examples:
